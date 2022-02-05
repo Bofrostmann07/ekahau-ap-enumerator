@@ -1,4 +1,5 @@
 # <img src="https://github.com/Bofrostmann07/ekahau-ap-enumerator/blob/main/docs/logo.png" alt="logo" width="80"/> Ekahau AP Enumerator 
+![Shield: maintained](https://img.shields.io/maintenance/yes/2022) ![Shield: last commit in main](https://img.shields.io/github/last-commit/bofrostmann07/ekahau-ap-enumerator/main)  
 Rename your Access Points in Ekahau Pro.
 
 ### Download
