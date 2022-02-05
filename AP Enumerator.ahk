@@ -3,6 +3,8 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #SingleInstance force ; Only one AHK instance can be run at the same time.
+if not A_IsAdmin
+	Run *RunAs "%A_ScriptFullPath%"
 
 hostname = AP_
 counter = 01
