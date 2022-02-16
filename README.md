@@ -1,19 +1,21 @@
 # <img src="https://github.com/Bofrostmann07/ekahau-ap-enumerator/blob/main/docs/logo.png" alt="logo" width="80"/> Ekahau AP Enumerator&nbsp;&nbsp;&nbsp;![Shield: maintained](https://img.shields.io/maintenance/yes/2022)&nbsp;![Shield: last commit in main](https://img.shields.io/github/last-commit/bofrostmann07/ekahau-ap-enumerator/main)  
-Rename your Access Points in Ekahau Pro.
+Rename your Access Points in Ekahau Pro with ease.
 
 ### Download
 [Native Windows 64bit (no requirements)](https://github.com/Bofrostmann07/ekahau-ap-enumerator/raw/main/AP%20Enumerator.exe "Download")  
 [Windows 64bit (Autohotkey installed)](https://github.com/Bofrostmann07/ekahau-ap-enumerator/blob/main/AP%20Enumerator.ahk "Download")
 
 ### How to use
-*You need to run this program as an administrator!*
+![quick start guide](https://github.com/Bofrostmann07/ekahau-ap-enumerator/blob/main/docs/quick%20_start.gif)
+*You need to run this program as an administrator!*  
 
-Rename AP with Strg+r. The hostname counter will automatically count one up.  
-You can manuelly manipulate the hostname counter by pressing page up / page down.  
-To change the hostname or counter value, you need to press the 'Set' button.  
-By adding leading zeros to the counter value field, you also change the width of the counter value field.  
+'Strg + r': Rename AP. The hostname counter will automatically count one up.  
+'Page Up': Increase Counter by one.  
+'Page Down': Decrease Counter by one.  
+'Strg + h': Shows up this help.
 
+Setting Hostname: Leading zeros in the counter field will be respected. Don´t forget to press 'Set'.  
 
 ### Disclaimer
 This is NOT an official program from Ekahau.  
-I´m not associated with Ekahau in any way.  
+I'm not associated with Ekahau in any way.
