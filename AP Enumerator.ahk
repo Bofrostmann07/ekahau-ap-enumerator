@@ -67,3 +67,13 @@ counter++
 counter := Format(counter_format, counter)
 GuiControl,,show_next_hostname,%hostname%%counter%
 return
+
+#IfWinActive, ahk_exe Ekahau AI Pro.exe
+^r::
+Send, ^a
+Send {BackSpace}
+Send, %hostname%%counter%
+counter++
+counter := Format(counter_format, counter)
+GuiControl,,show_next_hostname,%hostname%%counter%
+return
