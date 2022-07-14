@@ -2,7 +2,7 @@
 Rename your Access Points in Ekahau Pro with ease.
 
 ### Download
-[Native Windows 64bit (no requirements)](https://github.com/Bofrostmann07/ekahau-ap-enumerator/raw/main/AP%20Enumerator.exe "Download")  
+[Native Windows 64bit (no requirements)](https://github.com/Bofrostmann07/ekahau-ap-enumerator/releases/download/1.1.0/AP_Enumerator_1.1.0.exe "Download")  
 [Windows 64bit (Autohotkey installed)](https://github.com/Bofrostmann07/ekahau-ap-enumerator/blob/main/AP%20Enumerator.ahk "Download")
 
 ### How to use
